@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    "formulahendry.auto-rename-tag",
+    "coenraads.bracket-pair-colorizer-2",
+    "editorconfig.editorconfig",
+    "dbaeumer.vscode-eslint",
+    "pkief.material-icon-theme",
+    "pkief.material-product-icons",
+    "esbenp.prettier-vscode",
+    "tabnine.tabnine-vscode"
+  ]
+}
