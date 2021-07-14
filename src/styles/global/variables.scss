@@ -1,0 +1,54 @@
+@charset 'utf-8';
+
+$white: #fff;
+$white-bis: #fafafa;
+$white-ter: #f5f5f5;
+$grey-lightest: #ededed;
+$grey-lighter: #dbdbdb;
+$grey-light: #b5b5b5;
+$grey: #7a7a7a;
+$grey-dark: #4a4a4a;
+$grey-darker: #363636;
+$black-ter: #242424;
+$black-bis: #121212;
+$black: #0a0a0a;
+
+$orange: #ff470f;
+$yellow: #ffe08a;
+$green: #48c78e;
+$turquoise: #00d1b2;
+$cyan: #3e8ed0;
+$blue: #485fc7;
+$purple: #b86bff;
+$red: #ff3860;
+
+$primary: $turquoise;
+$link: $blue;
+$info: $cyan;
+$success: $green;
+$warning: $yellow;
+$danger: $red;
+
+$family-sans-serif: BlinkMacSystemFont, -apple-system, "Segoe UI", Roboto,
+  Oxygen, Oxygen-Sans, Ubuntu, Cantarell, "Fira Sans", "Droid Sans",
+  "Helvetica Neue", "Lucida Grande", Helvetica, Arial, sans-serif,
+  "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+
+$size-1: 3rem;
+$size-2: 2.5rem;
+$size-3: 2rem;
+$size-4: 1.5rem;
+$size-5: 1.25rem;
+$size-6: 1rem;
+$size-7: 0.75rem;
+
+$weight-light: 300;
+$weight-normal: 400;
+$weight-medium: 500;
+$weight-semibold: 600;
+$weight-bold: 700;
+
+$radius-small: 2px;
+$radius: 4px;
+$radius-large: 6px;
+$radius-rounded: 9999px;

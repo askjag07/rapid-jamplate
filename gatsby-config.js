@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    siteUrl: "https://govirtuoso.org",
+    siteUrl: "https://yourdomain.tld",
   },
   plugins: [
     "gatsby-plugin-perf-budgets",

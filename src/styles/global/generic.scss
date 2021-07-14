@@ -1,0 +1,12 @@
+@charset 'utf-8';
+
+html {
+  scroll-behavior: smooth !important;
+}
+body {
+  position: relative !important;
+  width: 100% !important;
+  box-sizing: border-box !important;
+  overflow-x: hidden !important;
+  overflow-y: auto !important;
+}
