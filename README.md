@@ -7,7 +7,7 @@
   Rapid JAMPlate
 </h1>
 
-## Secure, Scalable, Fast
+## ⚡ Secure, Scalable, Fast
 
 * Best Practices
 * Bulma CSS framework
@@ -16,7 +16,7 @@
 * High Performance
 * Ready to Deploy
 
-## 🚀 Quick start
+## 🚀 Quick Start (Development)
 
 1.  **Create a Gatsby site.**
 
@@ -56,7 +56,7 @@
 
     - [Cheat Sheet](https://www.gatsbyjs.com/docs/cheat-sheet/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
 
-## 🚀 Quick start (Gatsby Cloud)
+## 🚀 Quick start (Deployment)
 
 Deploy this starter with one click on [Gatsby Cloud](https://www.gatsbyjs.com/cloud/):
 
