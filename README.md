@@ -7,6 +7,15 @@
   Rapid JAMPlate
 </h1>
 
+## Secure, Scalable, Fast
+
+* Best Practices
+* Bulma CSS framework
+* Search Engine Optimization (SEO)
+* Progressive Web App (PWA)
+* High Performance
+* Ready to Deploy
+
 ## 🚀 Quick start
 
 1.  **Create a Gatsby site.**
