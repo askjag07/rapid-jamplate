@@ -15,7 +15,7 @@
 
     ```shell
     # create a new Gatsby site using the minimal starter
-    gatsby new your-project-name https://github.com/askjag07/rapid-jamplate
+    gatsby new my-gatsby-site https://github.com/askjag07/rapid-jamplate
     ```
 
 2.  **Start developing.**
