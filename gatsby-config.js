@@ -77,7 +77,7 @@ module.exports = {
     {
       resolve: "gatsby-plugin-manifest",
       options: {
-        name: "Rapid-JAMPlate",
+        name: "Rapid JAMPlate",
         short_name: "RJAMP",
         lang: "en",
         start_url: "/",
